@@ -1,4 +1,4 @@
-# Image Recognition Project
+# Image Recognition Model
 
 ## Overview
 This project uses Google Teachable Machine to train an image recognition model and Google Colab with Python to classify images using the exported model.
