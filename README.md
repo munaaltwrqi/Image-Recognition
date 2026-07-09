@@ -3,6 +3,12 @@
 ## Overview
 This project uses Google Teachable Machine to train an image recognition model and Google Colab with Python to classify images using the exported model.
 
+## Tools Used
+- Google Teachable Machine
+- Google Colab
+- Python
+- TensorFlow
+
 ## Steps
 1. Opened Google Teachable Machine and created a new Image Project.
 2. Created two image classes.
@@ -15,13 +21,6 @@ This project uses Google Teachable Machine to train an image recognition model a
 9. Loaded a test image and predicted its class.
 10. Displayed the predicted class and confidence score.
 11. Saved a screenshot of the output.
-
-## Tools Used
-- Google Teachable Machine
-- Google Colab
-- Python
-- TensorFlow
-
 
 ## Screenshots
 Step 1: Creating the Image Classes
